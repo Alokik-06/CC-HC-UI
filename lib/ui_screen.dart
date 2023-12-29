@@ -241,7 +241,7 @@ class _UiPageState extends State<UiPage> {
                       ),
                     );
                   },
-                )
+                ),
               ],
             ),
           ),
